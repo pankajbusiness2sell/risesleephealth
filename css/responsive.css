@@ -1,0 +1,1884 @@
+/******************************
+
+INDEX:
+
+******************************/
+
+body {
+    overflow: visible;
+    overflow-x: hidden;
+}
+
+@media (max-width: 1700px){
+	/*=== Header ===*/
+	.site-header.header-style-2{
+		padding: 30px 30px 0 30px;
+	}
+	.site-header.header-style-2 .site-branding{
+		padding-right: 60px;
+	}
+	.header-style-2 .main-menu .navigation > li{
+		padding: 0 25px;
+	}
+}
+
+@media (max-width: 1600px){
+	/*=== Header ===*/
+	.site-header.header-style-1{
+		padding: 30px 30px 0 30px;
+	}
+	.site-header.header-style-1 .site-branding{
+		padding-right: 10px;
+	}
+	.header-style-1 .main-menu .navigation > li{
+		padding: 0 25px;
+	}
+	.site-header.header-style-2{
+		padding: 20px 20px 0 20px;
+	}
+	.site-header.header-style-2 .site-branding{
+		padding-right: 40px;
+	}
+	.header-style-2 .rise-button-box .rise-header-button a{
+		padding-left: 50px;
+        font-size: 16px;
+	}
+	.header-style-2 .rise-button-box .rise-header-button a::before{
+		font-size: 18px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+	}
+	.header-style-2 .main-menu .navigation > li{
+		padding: 0 22px;
+	}
+	.header-style-2 .main-menu ul > li.dropdown > a:after{
+		right: -24px;
+	}
+	.site-header.header-style-2 .rise-button-box-second a{
+		padding: 12px 30px;
+	}
+	/*=== Title Bar ===*/
+	.rise-title-bar-wrapper{
+		margin: 25px 30px 0 30px !important;
+	}
+	/*=== Homepage 01 ===*/
+	.contact-one-bg .rise-appointment-form-inner{
+		padding: 60px 60px 80px 60px;
+	}
+}
+
+@media (max-width: 1500px){
+	/*=== Header ===*/
+	.site-header.header-style-1{
+		padding: 30px 30px 0 30px;
+	}
+	.header-style-1 .rise-main-header-area{
+		margin: 0 0px;
+	}
+	.site-header.header-style-1 .site-branding{
+		padding-right: 5px;
+	}
+	.header-style-1 .main-menu .navigation > li{
+		padding: 0 10px;
+	}
+	.header-style-1 .main-menu .navigation > li a{
+		font-size: 13px;
+	}
+
+	.site-header .site-branding img{
+		max-width: 200px;
+	}
+	.header-style-1 .main-menu ul > li.dropdown > a:after{
+		right: -10px;
+	}
+	.header-style-1 .rise-button-box .rise-header-button a {
+        padding-left: 45px;
+        font-size: 16px;
+    }
+	.header-style-1 .rise-button-box .rise-header-button a::before {
+        font-size: 17px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+	.site-header .rise-button-box-second{
+		padding-left: 15px;
+	}
+	.site-header .rise-button-box-second a{
+		padding: 12px 25px;
+	}
+	.site-header.header-style-2{
+		padding: 20px 10px 0 10px;
+	}
+	.site-header.header-style-2 .site-branding{
+		padding-right: 30px;
+	}
+	.header-style-2 .main-menu .navigation > li{
+		padding: 0 20px;
+	}
+	.header-style-2 .main-menu ul > li.dropdown > a:after {
+        right: -22px;
+    }
+	.site-header.header-style-2 .rise-button-box-second a{
+		padding: 12px 20px;
+	}
+	.site-header.header-style-3{
+		padding: 0 30px;
+	}
+	/*=== Title Bar ===*/
+	.rise-title-bar-wrapper{
+		margin: 25px 0 0 0 !important;
+	}
+	/*=== Homepage 01 ===*/
+	.contact-one-bg .rise-appointment-form-inner{
+		padding: 40px 40px 80px 40px;
+	}
+}
+
+@media (max-width: 1400px){
+	/*=== Header ===*/
+	.site-header.header-style-1 .rise-main-header-area .container-fluid{
+		padding: 0 20px;
+	}
+	.site-header.header-style-1 .site-branding{
+		padding-right: 0;
+	}
+	.header-style-1 .main-menu .navigation > li{
+		padding: 0 20px;
+	}
+	.site-header.header-style-2{
+		padding: 20px 0 0 0;
+	}
+	.header-style-2 .rise-button-box .rise-header-button a{
+		padding-left: 40px;
+        font-size: 15px;
+	}
+	.header-style-2 .rise-button-box .rise-header-button a::before{
+		font-size: 16px;
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+	}
+	.header-style-2 .main-menu .navigation > li{
+		padding: 0 18px;
+	}
+	.header-style-2 .main-menu ul > li.dropdown > a:after {
+        right: -20px;
+    }
+	.site-header.header-style-3{
+		padding: 0 20px;
+	}
+	.site-header.header-style-3 .site-branding{
+		padding-right: 20px;
+	}
+	/*=== Banner Slider ===*/
+	.rise-slider-one .rise-slider-content{
+		padding-left: 50px;
+	}
+	.rise-slider-three .rise-slider-content .rise-title{
+		font-size: 75px;
+		line-height: 75px;
+	}
+	/*=== Homepage 02 ===*/
+	.rise-service-style-2 .rise-content-box {
+		bottom: 60px;
+	}
+	/*=== Homepage 03 ===*/
+	.rise-service-style-3 .rise-service-wrap {
+		width: 60%;
+	}
+	.rise-service-style-3 .rise-service-image-wrapper {
+		width: 30%;
+	}
+	.rise-service-style-3 .pbminfotech-box-number {
+		font-size: 65px;
+		line-height: 65px;
+	}
+	.rise-service-style-3 .rise-service-title {
+		font-size: 50px;
+		line-height: 60px;
+	}
+	.rise-service-style-3 .rise-featured-img-wrapper {
+		width: 280px;
+		height: 280px;
+	}
+	/*=== Footer ===*/ 
+	.site-footer{
+		margin: 0;
+		border-radius: 30px 30px 0 0;
+	}
+}
+
+@media (max-width: 1366px){
+	/*=== Banner Slider ===*/
+	.contact-three-bg{
+		margin: 0px 15px 0px 0px;
+	}
+	.contact-three-form{
+		margin: 0px 0px 0px 15px;
+		padding: 40px 40px 0px 40px;
+	}
+	/*=== Section Pedding ===*/
+	.section-lg{
+		padding: 100px 25px;
+	}
+	.section-lg-1{
+		padding: 100px 0 100px 25px;
+	}
+	/*=== Section Title ===*/
+	.rise-heading-subheading .rise-title br{
+		display: none;
+	}
+	/*=== Homepage-01 ===*/
+	.about-us-sec-one{
+		padding: 30px;
+	}
+	.about-us-one-left{
+		padding: 30px 30px 0px 30px;
+	}
+	.about-us-one-col-2 .fid-style-area{
+		padding: 30px 20px 20px 20px;
+	}
+	.who-we-are-one-bg .content-wrapper{
+		padding: 60px 60px 60px 60px;
+	}
+	.contact-one-bg{
+		margin: 0;
+	}
+	/*=== Homepage-02 ===*/ 
+	.about-two-content{
+		padding: 50px 25px 50px 30px;
+	}
+	.static-box-two-bg{
+		padding: 100px 30px 70px 30px;
+	}
+	.testimonial-two-bg{
+		margin-left: -40px;
+	}
+	.testimonial-two-box{
+		padding: 60px 35px 60px 40px;
+		margin-right: -45px;
+	}
+	.appointment-two-bg{
+		margin: 0 25px;
+	}
+	/*=== Homepage-03 ===*/ 
+	.ihbox-three-bg{
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.rise-element-portfolio-style-2 .container-fluid{
+		padding: 0;
+	}
+	/*=== About Us ===*/
+	.our-history-bg{
+		margin-left: 0;
+		margin-right: 0;
+	}
+	/*=== Contact Us ===*/
+	.contact-us-left-area{
+		padding: 0 65px 0px 30px;
+	}
+	.contact-form-rightbox{
+		margin-right: 30px;
+	}
+}
+
+@media (max-width: 1300px){
+	/*=== Header ===*/
+	.site-header .rise-button-box{
+		display: none;
+	}
+	.site-header.header-style-3{
+		padding: 0;
+	}
+	.header-style-3 .rise-main-header-area .container{
+		padding: 0 30px;
+	}
+	.site-header.header-style-3 .site-branding{
+		padding-right: 10px;
+	}
+	.header-style-3 .site-navigation .main-menu .navigation > li{
+		padding: 0 24px;
+	}
+	/*=== Banner Slider ===*/
+	.rise-slider-two .rise-slider-item{
+		padding: 255px 0 180px 0;
+	}
+	.rise-slider-two .rise-slider-content .rise-title{
+		font-size: 125px;
+		line-height: 125px;
+	}
+	.rise-slider-two .rise-sub-title{
+		font-size: 16px;
+		line-height: 21px;
+	}
+	.rise-slider-two .rise-slider-content .rise-title-small{
+		font-size: 61px;
+	}
+	.rise-slider-two .rise-button .rise-btn{
+		padding: 14px 26px;
+	}
+	.rise-slider-three .rise-slider-item{
+		padding: 250px 0 190px 0;
+	}
+	.rise-slider-three .rise-sub-title{
+		font-size: 16px;
+		line-height: 21px;
+		margin-bottom: 10px;
+	}
+	.rise-slider-three .rise-slider-content .rise-title{
+		font-size: 70px;
+		line-height: 70px;
+	}
+	.rise-slider-three .rise-button a{
+		padding: 14px 26px;
+	}
+	/*=== Homepage 02 ===*/
+	.service-two-swiper-arrow{
+		right: 15px;
+	}
+}
+
+@media (max-width: 1280px){
+	/*=== Banner Slider ===*/
+	.rise-slider-one .rise-sub-title{
+		font-size: 12px;
+		line-height: 21px;
+	}
+	.rise-slider-one .rise-slider-content .rise-title{
+		font-size: 70px;
+		line-height: 70px;
+	}
+	.rise-slider-one .rise-slider-content .rise-desc{
+		font-size: 16px;
+		line-height: 21px;
+	}
+}
+	
+
+@media(max-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: none;
+    }
+	.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+		padding-right: calc(var(--bs-gutter-x) * .8);
+		padding-left: calc(var(--bs-gutter-x) * .8);
+	} 
+	.sticky-header{
+		position: relative  !important;
+	}
+    /** Main menu resoposive **/
+	.rise-menu-wrap {
+		background-color: #fff;
+		position: fixed;
+		top: 0;
+		right: -400px;
+		z-index: 1000;
+		width: 300px;
+		height: 100%;
+		padding: 0;
+		display: block;
+		transition: all 900ms ease;
+		-moz-transition: all 900ms ease;
+		-webkit-transition: all 900ms ease;
+		-ms-transition: all 900ms ease;
+		-o-transition: all 900ms ease;
+		-webkit-transform: translateX(400px);
+		-ms-transform: translateX(400px);
+		transform: translateX(400px);
+		opacity: 0;
+	}
+	.active .rise-menu-wrap{
+		right: 0px;
+		visibility: visible;
+		opacity: 1;
+		overflow-y: scroll;
+		-webkit-transform: translateX(0);
+		-ms-transform: translateX(0);
+		transform: translateX(0);
+		-webkit-transition-delay: 600ms;
+		-moz-transition-delay: 600ms;
+		-ms-transition-delay: 600ms;
+		-o-transition-delay: 600ms;
+		transition-delay: 600ms;
+		opacity: 1;
+	}
+	.rise-mobile-menu-bg {
+		position: fixed;
+		right: 0;
+		top: 0;
+		width: 0%;
+		height: 100%;
+		display: block;
+		z-index: 99;
+		background: rgba(0,0,0,.9);
+		-webkit-transform: translateX(101%);
+		-ms-transform: translateX(101%);
+		transform: translateX(101%);
+		transition: all 900ms ease;
+		-moz-transition: all 900ms ease;
+		-webkit-transition: all 900ms ease;
+		-ms-transition: all 900ms ease;
+		-o-transition: all 900ms ease;
+		-webkit-transition-delay: 300ms;
+		-moz-transition-delay: 300ms;
+		-ms-transition-delay: 300ms;
+		-o-transition-delay: 300ms;
+		transition-delay: 300ms;
+	}
+	.active .rise-mobile-menu-bg {
+		opacity: 1;
+		width: 100%;
+		visibility: visible;
+		transition: all 900ms ease;
+		-moz-transition: all 900ms ease;
+		-webkit-transition: all 900ms ease;
+		-ms-transition: all 900ms ease;
+		-o-transition: all 900ms ease;
+		-webkit-transform: translateX(0%);
+		-ms-transform: translateX(0%);
+		transform: translateX(0%);
+	}
+	.closepanel {
+		position: absolute;
+		z-index: 99;
+		right: 20px;
+		margin-left: -20px;
+		top: 30px;
+		display: block;
+		width: 30px;
+		height: 30px;
+		line-height: 30px;
+		border-radius: 50%;
+		text-align: center;
+		cursor: pointer;
+		font-size: 25px;
+		color: #000;
+		border: 0;
+		-webkit-transition: all 300ms ease;
+		transition: all 300ms ease;
+	}
+    .navbar-toggler { 
+		display: block !important;
+		position: absolute;
+		right: 0px;
+		top: 50%;
+		-webkit-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		transform: translateY(-50%);
+		background-color: transparent;
+		padding: 0;
+		font-size: 35px;
+		line-height: 35px;
+		color: var(--rise-blackish-color);
+		width: 40px;
+		z-index: 1;
+	}
+    .navbar-toggler:hover, 
+	.navbar-toggler:focus { 
+		outline: none; 
+	}
+    .main-menu .navbar-collapse {
+		position: absolute;
+		width: 100%; left: 0;
+		background-color: #fff;
+		z-index: 99;
+		top: 82px; 
+	}
+    .main-menu .navigation > li {
+		float: none; 
+		border-bottom: 1px solid rgba(0, 0, 0, 0.10); 
+	}
+    .site-header .site-navigation ul.navigation > li > a {
+		height: auto!important; 
+		line-height: 24px !important; 
+		padding: 15px 25px; 
+		display: inline-block;
+		margin: 0;	
+		color: #000;
+	}
+	.main-menu .navigation > li > ul a{
+		color: #000;
+		padding: 15px 25px;
+		height: auto;
+		display: inline-block;
+	}
+    .main-menu .navigation > li > ul,
+	.main-menu .navigation > li > ul > li > ul {
+		border: none; 
+		box-shadow: inherit !important; 
+		width: 100%;
+		display: none; 
+		position: inherit; 
+		-webkit-transform: translateY(0); 
+		-moz-transform: translateY(0); 
+		-ms-transform: translateY(0); 
+		-o-transform: translateY(0); 
+		transform: translateY(0); 
+	}
+    .main-menu .navigation > li > ul > li > ul { 
+		left: 0; 
+		top: 100%; 
+	}
+    .main-menu .navigation > li.dropdown > ul.open, 
+	.main-menu .navigation > li.dropdown > ul.open li.dropdown > ul.open {
+		display: block; 
+		opacity: 1; 
+		visibility: visible; 
+		padding-left: 1em;
+	}
+	.main-menu .navigation > li > ul li,
+	.main-menu .navigation > li > ul li a{
+		border: none;
+	}
+    .menu-right-box { 
+		position: relative; 
+		right: 30px; 
+		top: 10px; 
+	}
+	.site-header .righticon {
+		display: block;
+		position: absolute;
+		right: 25px;
+		top: 15px;
+		cursor: pointer;
+		color: rgba(0, 0, 0, 0.80);
+	}
+    .site-header .menu-right-box { 
+		display: none !important; 
+	}
+    .main-menu ul > li.dropdown > a:after{
+		display: none;
+	}
+	.site-header .righticon i{
+		font-size: 14px;
+	}
+	.rise-pre-header-wrapper{
+		display: none;
+	}
+	.rise-nav-menu-toggle{
+		display: none;
+	}
+	.site-header .rise-header-content{
+		position: relative;
+	}
+	ul.navigation.clearfix{
+		padding: 90px 0;
+	}
+	.rise-slider-social {
+		display: none;
+	}
+	.rise-right-box {
+		display: none;
+	}
+	.site-header .rise-social-links{
+		display: none;
+	}
+	.site-header .site-header-menu > .container{
+		padding: 0 30px;
+	}
+	.rise-search-overlay .rise-search-outer{
+		position: absolute;
+		left: 50px;
+		right: 50px;
+	}
+	.site-header .main-menu .navigation > li{
+		padding: 0 !important;
+	}
+	.site-header .rise-header-search-btn{
+		margin-right: 60px;
+	}
+	.site-header.header-style-1{
+		padding: 0;
+	}
+	.header-style-1 .rise-main-header-area{
+		margin: 0;
+	}
+	.header-style-1 .rise-logo-menuarea{
+		flex: 1;
+	}
+	.header-style-1 .rise-button-box-second{
+		display: none;
+	}
+	.site-header.header-style-2{
+		padding: 0;
+	}
+	.header-style-2 .rise-main-header-area .container-fluid{
+		padding: 0 30px;
+	}
+	.header-style-2 .rise-button-box,
+	.site-header.header-style-2 .rise-button-box-second,
+	.site-header.header-style-3 .rise-button-box-second{
+		display: none;
+	}
+	.header-style-2 .navbar-toggler{
+		color: var(--rise-white-color);
+	}
+	/*=== Section-Padding ===*/
+	.section-lg,
+	.section-lg-1 {
+		padding: 80px 0;
+	}
+	.section-xl{
+		padding-top: 80px;
+		padding-bottom: 50px;
+	}
+	.section-lgb{
+		padding-bottom: 80px;
+	}
+	/*=== Banner Slider ===*/
+	.rise-slider-one{
+		margin-top: 0;
+		border-radius: 0;
+	}
+	/*=== Section-Title ===*/
+	.rise-heading-subheading .rise-heading-desc br{
+		display: none;
+	}
+	/*=== Title Bar ===*/
+	.rise-title-bar-wrapper{
+		margin: 0 !important;
+	}
+	/*=== Homepage-01 ===*/
+	.why-choose-one-about-img{
+		margin-left: -40px;
+	}
+	.rise-ihbox-style-2 .rise-ihbox-headingicon {
+		display: block;
+	}
+	.rise-ihbox-style-2 .rise-ihbox-svg,
+	.rise-ihbox-style-2 .rise-ihbox-icon {
+		margin: 0 0 20px 0;
+	}
+	.who-we-are-one-bg .content-wrapper{
+		padding: 40px 40px 40px 40px;
+	}
+	.pricing-one-bg{
+		margin: 0;
+		padding: 80px 30px 80px 30px;
+	}
+	.pricing-one-col-2{
+		padding: 50px 0 0 25px;
+	}
+	.pricing-one-col-2 .tween-effect-style-area{
+		display: none;
+	}
+	.rise-testimonial-style-2 .pbminfotech-post-item {
+		padding: 60px 60px 50px 60px;
+	}
+	.contact-one-bg{
+		padding: 80px 30px 70px 30px;
+	}
+	/*=== Homepage-02 ===*/
+	.rise-team-style-1 .pbminfotech-box-content {
+		padding: 30px 30px 50px 30px;
+	}
+	.static-box-two-bg{
+		padding: 80px 25px 50px 25px;
+	}
+	.pbminfotech-ele-fid-style-3 .rise-fid-content {
+		display: block;
+	}
+	.pbminfotech-ele-fid-style-3 .rise-heading-desc {
+		padding: 10px 0 0 0;
+	}
+	.pricing-two-bg{
+		background-image: none;
+	}
+	.appointment-two-bg{
+		padding: 100px 0px 100px 60px;
+		margin: 0 15px;
+	}
+	.appointment-two-bg .ihbox-style-area{
+		display: none;
+	}
+	.rise-blog-style-2 .rise-post-item {
+		display: block;
+	}
+	.rise-element-column-two .rise-blog-style-2 .rise-featured-wrapper img {
+		width: 100%;
+	}
+	.rise-blog-style-2 .rise-content-wrapper {
+		padding: 30px 20px;
+	}
+	/*=== Homepage 03 ===*/
+	.service-three-bg{
+		background-image: none;
+	}
+	.rise-service-style-3 .pbminfotech-box-number {
+		font-size: 50px;
+		line-height: 60px;
+	}
+	.rise-service-style-3 .rise-service-title {
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.rise-service-style-3 .rise-service-wrap {
+		width: 55%;
+	}
+	.rise-service-style-3 .rise-service-image-wrapper {
+		width: 35%;
+	}
+	.rise-service-style-3 .rise-featured-img-wrapper {
+		width: 250px;
+		height: 250px;
+		right: 10%;
+	}
+	.rise-element-portfolio-style-2 .container-fluid{
+		padding: 0 30px;
+	}
+	.rise-testimonial-style-2 .pbminfotech-post-item {
+		padding: 60px 60px 50px 60px;
+	}
+	/*=== Service Detail ===*/
+	.service-left-col,
+	.service-right-col,
+	.blog-left-col,
+	.blog-right-col{
+		display: block;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+        width: 100%;
+	}
+	.service-right-col,
+	.blog-right-col{
+		padding-top: 60px;
+	}
+	.sidebar .widget{
+		margin-bottom: 35px;
+	}
+	.widget.rise-service-ad .rise-service-ads{
+		padding: 80px 30px 70px;
+	}
+	/*=== Portfolio Single ===*/
+	.rise-single-project-details-list .rise-portfolio-lines-ul{
+		grid-gap: 30px;
+        grid-template-columns: repeat(2, 1fr);
+	}
+	.rise-portfolio-lines-wrapper .rise-portfolio-line-li:not(:last-child)::after{
+		display: none;
+	}
+	.post-navigation .nav-links a{
+		width: auto;
+	}
+	/*=== Portfolio Single ===*/
+	.rise-portfolio-single .rise-entry-content .ihbox-style-area{
+		padding: 40px 40px 40px 40px;
+	}
+	/*=== Blog Single ===*/
+	.blog-details .rise-entry-content .rise-block-columns{
+		display: block;
+	}
+	.blog-details .rise-entry-content .rise-block-column{
+		width: 100%;
+	}
+	.blog-details .rise-entry-content .rise-block-column:first-child figure,
+	.blog-details .rise-entry-content .rise-block-column:last-child figure{
+		padding: 0;
+	}
+	.blog-details .rise-entry-content .rise-block-columns img{
+		margin-top: 40px;
+	}
+	/*=== Contact Us ===*/
+	.contact-us-left-area{
+		padding: 0 65px 0px 10px;
+	}
+	.contact-form-rightbox{
+		margin-right: 10px;
+	}
+	.contact-us-left-area .tween-style{
+		display: none;
+	}
+	.contact-form-rightbox{
+		padding: 40px 40px 0px 40px;
+	}
+	.rise-extend-animation {
+        clip-path: unset !important;
+    }
+	/*=== Footer ===*/
+	.site-footer{
+		padding-top: 80px;
+	}
+	.site-footer .container{
+		padding: 0 30px;
+	}
+	.site-footer .rise-footer-big-area .rise-footer-logo img{
+		margin-bottom: 30px;
+	}
+	.site-footer .rise-footer-widget-area{
+		padding-bottom: 80px;
+	}
+	.site-footer .rise-footer-text-inner:before, 
+	.site-footer .rise-footer-text-inner:after{
+		display: none;
+	}
+}
+
+@media(max-width:1024px) {
+	/*=== Section Title ===*/
+	.rise-heading-subheading .rise-title{
+		font-size: 44px;
+        line-height: 46px;
+	}
+	/*=== Section Padding ===*/
+	.section-md{
+		padding-top: 70px;
+		padding-bottom: 70px;
+	}
+	/*=== Banner Slider ===*/
+	.rise-slider-one .rise-slider-item{
+		height: 490px;
+	}
+	.rise-slider-one .rise-slider-content{
+		padding-left: 20px;
+	}
+	.rise-slider-one .rise-sub-title{
+		font-size: 10px;
+		line-height: 17px;
+	}
+	.rise-slider-one .rise-sub-title:after{
+		width: 39px;
+		height: 37px;
+		right: -50px;
+	}
+	.rise-slider-one .rise-slider-content .rise-title{
+		font-size: 56px;
+		line-height: 56px;
+	}
+	.rise-slider-one .rise-slider-content .rise-desc{
+		font-size: 13px;
+		line-height: 17px;
+	}
+	.rise-slider-area .rise-button .rise-btn{
+		padding: 10px 25px;
+	}
+	.rise-slider-two .rise-slider-item{
+		padding: 200px 0 150px 0;
+	}
+	.rise-slider-two .swiper-buttons{
+		display: none;
+	}
+	.rise-slider-two .rise-sub-title{
+		font-size: 13px;
+		line-height: 17px;
+	}
+	.rise-slider-two .rise-slider-content .rise-title{
+		font-size: 98px;
+		line-height: 98px;
+	}
+	.rise-slider-two .rise-slider-content .rise-title-small{
+		font-size: 48px;
+		line-height: 56px;
+		margin-bottom: 15px;
+	}
+	/*=== Homepage-01 ===*/
+	.about-us-one-col-1,
+	.about-us-one-col-2,
+	.about-us-one-col-3{
+		width: 100% !important;
+	}
+	.about-us-one-left{
+		margin: 0;
+	}
+	.about-us-one-col-2 .fid-style-area{
+		height: auto;
+		margin: 30px 0;
+		padding: 30px 30px 30px 30px;
+	}
+	.about-us-one-rightbox{
+		margin: 0;
+		padding: 50px 50px 50px 50px;
+		background-image: none;
+	}
+	.tween-effect-style-area{
+		display: none;
+	}
+	.why-choose-one-about-img{
+		margin: 0 0 30px 0;
+		text-align: center;
+	}
+	.who-we-are-one-bg .content-wrapper{
+		margin: 0 15px;
+	}
+	.pricing-one-col-2{
+		padding: 30px 0 0 0;
+	}
+	.pricing-one-bg{
+		padding-bottom: 30px;
+	}
+	.rise-testimonial-style-2 .pbminfotech-post-item {
+		padding: 50px 50px 50px 50px;
+	}
+	/*=== Homepage-02 ===*/
+	.about-sec-two .container{
+		padding: 0;
+	}
+	.about-sec-two .rise-col-stretched-left{
+		padding: 250px 0;
+		position: relative;
+	}
+	.about-two-content{
+		padding: 50px 25px 0px 30px;
+	}
+	.testimonial-two-bg{
+		margin: 0;
+		padding: 270px 0;
+		border-radius: 30px 30px 0px 0px;
+	}
+	.testimonial-two-box{
+		margin: 0;
+		border-radius: 0px 0px 30px 30px;
+		padding: 40px 30px 40px 30px;
+	}
+	.appointment-two-bg{
+		padding: 60px 60px 60px 60px;
+		margin: 0;
+	}
+	/*=== Homepage-03 ===*/
+	.contact-three-bg{
+		margin: 0;
+		border-radius: 30px 30px 0px 0px;
+		padding: 270px 0;
+	}
+	.contact-three-form{
+		border-radius: 0px 0px 30px 30px;
+		margin: 0;
+	}
+	.rise-tween-effect-style-1 .rise-tween-effect {
+		transform: translate(0 , 0) !important;
+	}
+	.infobox-service-car-img{
+		margin: 0;
+		padding-bottom: 80px;
+	}
+	.ihbox-three-bg{
+		margin: 0;
+	}
+	.rise-testimonial-style-2 .pbminfotech-post-item {
+		padding: 50px 50px 50px 50px;
+	}
+	.rise-slider-three .rise-slider-item{
+		padding: 200px 0 160px 0;
+	}
+	.rise-slider-three .rise-sub-title{
+		font-size: 13px;
+		line-height: 17px;
+		margin-bottom: 0;
+	}
+	.rise-slider-three .rise-slider-content .rise-title{
+		font-size: 56px;
+		line-height: 56px;
+	}
+	/*=== Team Single Details ===*/
+	.rise-team-single .rise-team-left-inner{
+		margin-bottom: 50px;
+	}
+	.rise-team-single .rise-entry-content .progressbar:last-child{
+		padding-bottom: 20px;
+	}
+	.rise-team-single .comment-respond{
+		padding: 40px 30px 0px 30px;
+	}
+	/*=== Service Detail ===*/
+	.service-details .rise-entry-content .service-single-img-02{
+		padding: 230px 0;
+		margin-bottom: 30px;
+	}
+	/*=== Portfolio Single ===*/
+	.rise-portfolio-single .rise-entry-content .ihbox-style-area{
+		padding: 30px 30px 30px 30px;
+	}
+	.rise-ihbox-style-9 .rise-element-title {
+		font-size: 20px;
+		line-height: 30px;
+	}
+	/*=== Contact Us ===*/
+	.contact-us .section-lg{
+		padding-bottom: 50px;
+	}
+	/*=== Footer ===*/
+	.site-footer .rise-footer-newsletter{
+		display: block;
+	}
+	.site-footer .rise-footer-newsletter .rise-footer-news-title{
+		padding: 0;
+		margin-bottom: 15px;
+	}
+	.site-footer .rise-footer-newsletter .rise-footer-news-title br{
+		display: none;
+	}
+	.site-footer .widget{
+		padding-top: 50px;
+	}
+	.site-footer .rise-footer-widget-col-1,
+	.site-footer .rise-footer-widget-col-2,
+	.site-footer .rise-footer-widget-col-3,
+	.site-footer .rise-footer-widget-col-4{
+		flex: 50% !important;
+        max-width: 50% !important;
+	}
+}
+
+@media(max-width:991px) {
+	/*=== Section Title ===*/	
+	.rise-heading-subheading .rise-title{
+		font-size: 40px;
+        line-height: 42px;
+	}
+	/*=== Banner Slider ===*/	
+	.rise-slider-area .rise-sub-title:after,
+	.rise-slider-one .swiper-horizontal>.swiper-pagination-bullets{
+		display: none;
+	}
+	.rise-slider-one .rise-slider-content .rise-title{
+		font-size: 48px;
+		line-height: 48px;
+	}
+	/*=== Homepage-01 ===*/
+	.pbminfotech-ele-ptable-style-2 .rise-ptable-col:not(:last-child) {
+		margin-bottom: 30px;
+	}
+	.rise-testimonial-style-2 .pbminfotech-post-item {
+		padding: 40px 40px 50px 40px;
+	}
+	/*=== Homepage-02 ===*/
+	.rise-static-box-style-2.rise-active,
+	.rise-static-box-style-2 {
+		flex: auto;
+	}
+	.rise-static-box-style-2 .rise-img-text {
+		display: none;
+	}
+	.rise-static-box-style-2 .rise-content-box {
+		opacity: 1;
+		visibility: visible;
+	}
+	/*=== Homepage-03 ===*/
+	.rise-tween-effect-style-1 .rise-element-title {
+		font-size: 110px;
+		line-height: 120px;
+	}
+	.rise-service-style-3 .pbminfotech-box-number {
+		font-size: 38px;
+		line-height: 48px;
+	}
+	.rise-service-style-3 .rise-service-title {
+		font-size: 32px;
+		line-height: 42px;
+	}
+	.rise-service-style-3 .rise-service-title-wrap {
+		padding-left: 10px;
+	}
+	.rise-service-style-3 .rise-featured-img-wrapper {
+		width: 220px;
+		height: 220px;
+		right: 5%;
+	}
+	.rise-testimonial-style-2 .pbminfotech-post-item {
+		padding: 40px 40px 50px 40px;
+	}
+	.rise-slider-three .rise-slider-content{
+		padding: 0;
+		text-align: center;
+	}
+	.rise-slider-three .rise-sub-title{
+		display: inline-block;
+	}
+	/*=== Contact Us ===*/
+	.contact-us-left-area{
+		padding-right: 0;
+	}
+	/*=== Footer ===*/
+	.site-footer{
+		padding-top: 40px;
+	}
+	.site-footer .rise-footer-widget-area{
+		padding-bottom: 60px;
+	}
+	.site-footer .rise-footer-widget-col-1,
+	.site-footer .rise-footer-widget-col-2,
+	.site-footer .rise-footer-widget-col-3,
+	.site-footer .rise-footer-widget-col-4{
+		flex: 100% !important;
+        max-width: 100% !important;
+	}
+}
+
+@media(max-width:768px){
+	/*=== Banner Slider ===*/
+	.rise-slider-two .rise-slider-item{
+		padding: 180px 0 100px 0;
+	}
+	.rise-slider-two .rise-button .rise-btn-hover-white{
+		display: none;
+	}
+}
+
+@media(max-width:767px) {
+	/*=== Section-Padding ===*/
+	.section-lg,
+	.section-lg-1{
+		padding-top: 60px;
+		padding-bottom: 60px;
+	}
+	.section-xl{
+		padding-top: 60px;
+		padding-bottom: 30px;
+	}
+	.section-lgb {
+		padding-bottom: 60px;
+	}
+	.section-md{
+		padding-top: 60px;
+		padding-bottom: 60px;
+	} 
+	/*=== Section Title ===*/
+	.rise-heading-subheading{
+		margin-bottom: 30px;
+	}
+	.rise-heading-subheading .rise-title{
+		font-size: 36px;
+        line-height: 38px;
+	}
+	/*=== Title Bar ===*/ 
+	.rise-tbar-title{
+		font-size: 50px;
+        line-height: 60px;
+	}
+	.single-post .rise-title-bar-content-inner{
+		width: 100%;
+	}
+	/*=== Banner Slider ===*/
+	.rise-slider-one .rise-slider-item{
+		height: 380px;
+	} 
+	.rise-slider-one .rise-slider-content{
+		padding-left: 0;
+	}
+	.rise-slider-area .rise-sub-title{
+		margin-bottom: 10px;
+	}
+	.rise-slider-one .rise-slider-content .rise-title{
+		font-size: 35px;
+		line-height: 35px;
+		margin-bottom: 20px;
+	}
+	.rise-slider-one .rise-slider-content .rise-desc{
+		font-size: 11px;
+		padding-top: 10px;
+	}
+	.rise-slider-two .rise-slider-item{
+		padding: 140px 0 70px 0;
+	}
+	.rise-slider-two .rise-slider-content .rise-title{
+		font-size: 70px;
+		line-height: 70px;
+	}
+	.rise-slider-two .rise-slider-content .rise-title-small{
+		font-size: 35px;
+		line-height: 42px;
+	}
+	.rise-slider-three .rise-slider-item{
+		padding: 150px 0 120px 0;
+	}
+	.rise-slider-three .rise-slider-item:before{
+		width: 100%;
+	}
+	.rise-slider-three .rise-slider-content .rise-title{
+		font-size: 38px;
+		line-height: 38px;
+		margin-bottom: 15px;
+	}
+	.rise-slider-three .swiper-horizontal>.swiper-pagination-bullets{
+		display: none;
+	}
+	/*=== Homepage-01 ===*/
+	.about-us-one-rightbox{
+		padding: 30px 30px 30px 30px;
+	}
+	.about-us-one-rightbox .rise-heading{
+		margin-bottom: 100px;
+	}
+	.rise-marquee-effect-style-1 .rise-element-title{
+		font-size: 50px;
+		line-height: 60px!important;
+	}
+	.rise-marquee-effect-style-1 .rise-tag-wrapper{
+		padding-left: 70px;
+		margin-left: 30px;
+	}
+	.rise-marquee-effect-style-1 .rise-tag-wrapper::before{
+		font-size: 40px;
+		line-height: 50px;
+	}
+	.service-swiper-arrow, 
+	.testimonial-swiper-arrow,
+	.service-two-swiper-arrow,
+	.blog-swiper-arrow{
+		display: none !important;
+	}
+	.pbminfotech-ele-fid-style-2 .rise-fid sub, 
+	.pbminfotech-ele-fid-style-2 .rise-fid-inner .rise-fid span{
+		margin-left: -10px;
+	}
+	.who-we-are-one-bg .content-wrapper{
+		padding: 30px;
+	}
+	.pricing-one-bg{
+		padding: 60px 30px 30px 30px;
+	}
+	.contact-one-bg{
+		padding: 60px 30px 50px 30px;
+	}
+	/*=== Homepage-02 ===*/ 
+	.rise-static-box-style-2 .rise-content-box .rise-bg-imgbox {
+		background-image: none !important;
+		height: auto;
+		padding-bottom: 20px;
+	}
+	.rise-static-box-style-2 .rise-content-box,
+	.rise-static-box-style-2 .rise-content-box .rise-bg-imgbox .rise-img {
+		display: block;
+	}
+	.rise-static-box-style-2 .rise-content-box .rise-bg-imgbox .rise-img img {
+		width: 100%;
+		border-radius: 30px;
+	}
+	.rise-static-box-style-2 .rise-content-box-inner {
+		padding: 10px 0 0 0;
+	}
+	.rise-static-box-style-2 .rise-content-box .rise-static-box-number {
+		position: inherit;
+	}
+	.rise-static-box-style-2 .rise-staticbox-post-item {
+		padding: 30px;
+	}
+	.static-box-two-bg{
+		padding: 60px 30px 30px 30px;
+	}
+	.testimonial-two-bg{
+		padding: 170px 0;
+	}
+	.pbminfotech-ele-ptable-style-3 .rise-pricing-table-inner {
+		display: block;
+	}
+	.pbminfotech-ele-ptable-style-3 .rise-head-wrap {
+		border: none;
+		margin: 0;
+		padding: 0 0 30px 0;
+	}
+	.pbminfotech-ele-ptable-style-3 .rise-ptable-col:hover .rise-head-wrap::before {
+		content: none;
+	}
+	.pbminfotech-ele-ptable-style-3 .rise-ptable-lines {
+		display: block;
+	}
+	.pbminfotech-ele-ptable-style-3 .rise-ptable-lines .rise-ptable-line {
+		width: 100%;
+	}
+	.appointment-two-bg{
+		padding: 60px 30px 60px 30px;
+	}
+	/*=== Homepage-03 ===*/ 
+	.contact-three-bg{
+		padding: 170px 0;
+	}
+	.contact-three-form .input-button button{
+		padding: 15px 30px;
+	}
+	.infobox-service-car-img{
+		padding-bottom: 60px;
+	}
+	.rise-tween-effect-style-1 .rise-element-title {
+		font-size: 60px;
+		line-height: 70px;
+	}
+	.rise-service-style-3 .rise-box-content-wrap {
+		display: block;
+	}
+	.rise-service-style-3 .rise-service-image-wrapper,
+	.rise-service-style-3 .rise-service-wrap {
+		width: 100%;
+	}
+	.rise-service-style-3 .rise-box-content-wrap > *:not(:last-child) {
+		padding-bottom: 30px;
+	}
+	.rise-service-style-3 .rise-featured-img-wrapper {
+		width: 200px;
+		height: 200px;
+		right: 0;
+	}
+	.rise-service-style-3 .rise-service-wrap {
+		display: block;
+	}
+	.rise-service-style-3 .rise-service-title-wrap {
+		padding-left: 0;
+	}
+	/*=== Team Single Details ===*/ 
+	.site-content{
+		padding-top: 60px;
+		padding-bottom: 60px;
+	}
+	.rise-heading .rise-title{
+		font-size: 30px;
+		line-height: 36px;
+	}
+	/*=== Service Detail ===*/	
+	.service-details .rise-entry-content .rise-heading .rise-title{
+		font-size: 30px;
+		line-height: 36px;
+	}
+	/*=== Portfolio Single ===*/
+	.rise-single-project-details-list{
+		position: inherit;
+        margin: 0;
+        padding: 30px;
+        border-radius: 0 0 30px 30px;
+        background-color: var(--rise-light-color);
+	}
+	.rise-single-project-details-list .rise-portfolio-lines-ul{
+		grid-gap: 30px;
+        padding: 0;
+        grid-template-columns: repeat(1, 1fr);
+	}
+	.rise-portfolio-single .list-group{
+		margin-bottom: 50px;
+	}
+	.rise-ihbox-style-9 .rise-ihbox-headingicon {
+		display: block;
+	}
+	.rise-ihbox-style-9 .rise-ihbox-svg,
+	.rise-ihbox-style-9 .rise-ihbox-icon {
+		margin: 0 0 20px 0;
+	}
+	/*=== Blog Single ===*/
+	.blog-details .rise-entry-content blockquote{
+		padding: 100px 40px 40px 40px;
+        font-size: 20px;
+        line-height: 30px;
+	}
+	.blog-details .rise-entry-content blockquote:before{
+		top: 30px;
+	}
+	.comment-list .children{
+		margin-left: 0;
+	}
+	/*=== Contact Us ===*/
+	.contact-us .section-lg{
+		padding-bottom: 30px;
+	}
+	.contact-form-rightbox{
+		padding: 30px 30px 0px 30px;
+	}
+	/*=== Footer ===*/ 
+	.site-footer .widget{
+		padding-top: 40px;
+	}
+	.site-footer .rise-footer-widget-area{
+		padding-bottom: 40px;
+	}
+}
+
+@media(max-width:575px) {
+	/*=== Section Title ===*/
+	.rise-heading-subheading .rise-title{
+		font-size: 32px;
+        line-height: 34px;
+	}
+	/*=== Banner Slider ===*/ 
+	
+	/*=== Title Bar ===*/
+	.rise-title-bar-wrapper, 
+	.rise-title-bar-content{
+		min-height: 350px;
+	}
+	.rise-tbar-title{
+		font-size: 30px;
+		line-height: 40px;
+		letter-spacing: 0;
+	}
+	/*=== Homepage-01 ===*/
+	.pbminfotech-ele-fid-style-2 .rise-fid-inner {
+		font-size: 80px;
+		line-height: 80px;
+	}
+	.contact-one-bg .rise-appointment-form-inner{
+		mask: inherit;
+		padding: 30px 30px 80px 30px;
+	}
+	.contact-one-bg form button{
+		right: inherit;
+		left: 30px;
+		bottom: 30px;
+		padding: 15px 30px;
+	}
+	/*=== Homepage-02 ===*/ 
+	.testimonial-two-box .swiper-buttons{
+		display: none;
+	}
+	/*=== Team Single Details ===*/
+	.rise-ihbox-style-8 .rise-ihbox-headingicon {
+		display: block;
+	}
+	.rise-ihbox-style-8 .rise-ihbox-svg,
+	.rise-ihbox-style-8 .rise-ihbox-icon {
+		margin: 0 0 20px 0;
+	}
+	/*=== Service Detail ===*/ 
+	.service-details .rise-entry-content .rise-heading .rise-title{
+		font-size: 32px;
+		line-height: 34px;
+	}
+	.widget.rise-service-ad .rise-service-ads{
+		padding: 60px 30px 50px;
+	}
+	.rise-service-ads .rise-ads-title{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	/*=== Portfolio Single ===*/
+	.post-navigation .nav-links{
+		display: block;
+	}
+	.post-navigation .nav-previous,
+	.post-navigation .nav-next{
+		width: 100%;
+	}
+	.post-navigation .nav-links .rise-post-nav-wrapper{
+		margin: 0 15px;
+	}
+	.post-navigation .nav-links .nav-title{
+		font-size: 16px;
+        line-height: 22px;
+	}
+	/*=== Blog Classic ===*/ 
+	.blog-classic .rise-blog-classic-inner .rise-post-title{
+		font-size: 26px;
+        line-height: 36px;
+        margin-bottom: 20px;
+        padding-bottom: 20px;
+	}
+	/*=== Blog Detail ===*/ 
+	.blog-details .rise-author-box{
+		display: block;
+        padding: 40px 30px;
+	}
+	.blog-details .rise-author-content{
+		margin-top: 20px;
+	}
+	.comment-list .rise-comment-avatar{
+		float: none;
+	}
+	.blog-details .rise-comment-content{
+		margin: 25px 0 0 0;
+	}
+	.blog-details .comment-respond{
+		padding: 40px 30px;
+        margin-bottom: 0;
+	}
+	.blog-details .comment-respond .comment-reply-title{
+		font-size: 20px;
+        line-height: 30px;
+	}
+	/*=== Footer ===*/ 
+	.site-footer .rise-footer-newsletter input[type="email"]{
+		width: 100%;
+		padding: 15px 15px 15px 20px;
+	}
+	.site-footer .rise-footer-newsletter .rise-btn{
+		position: relative;
+		top: 10px;
+	}
+}
+
+@media (max-width: 485px){
+	/*=== Header ===*/ 
+	.site-header .rise-header-search-btn{
+		display: none;
+	}
+	/*=== Banner Slider ===*/ 
+	.rise-slider-one .rise-slider-content .rise-desc,
+	.rise-slider-two .rise-sub-title{
+		display: none;
+	}
+}
+
+@media (max-width: 480px){
+	/*=== Homepage 03 ===*/ 
+	.rise-tween-effect-style-1 .rise-element-title {
+		font-size: 40px;
+		line-height: 50px;
+	}
+}
+
+@media (max-width: 375px){
+	/*=== Banner Slider ===*/
+	.rise-slider-one .rise-slider-content .rise-title{
+		font-size: 31px;
+		line-height: 31px;
+	}
+	.rise-slider-two .rise-slider-content .rise-title{
+		font-size: 60px;
+		line-height: 66px;
+	}
+	.rise-slider-two .rise-slider-content .rise-title-small{
+		font-size: 27px;
+        line-height: 35px;
+	}
+}
+
+/*=== Min Start ===*/
+@media (min-width: 1400px){
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1200px;
+    }
+}
+
+@media (min-width: 1201px){
+	.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1424px;
+    }
+	/*=== Header ===*/
+	.site-header .site-navigation ul.navigation .righticon{
+		display: none;
+	}
+	.main-menu .navigation > li > ul li.active > a{
+		color: var(--rise-global-color);
+	}
+	.site-navigation ul.navigation > li.active > a{
+		color: var(--rise-global-color);
+	}
+	.site-header .rise-social-links li{
+		float: left;
+	}
+	.site-navigation ul.navigation > li > a{
+		height: 100px;
+		line-height: 100px;
+		float: left;
+		min-height: 1px;
+		vertical-align: top;
+		position: relative;
+	}
+	.site-navigation ul.navigation > li > a:hover{
+		color: var(--rise-global-color);
+   }
+	.main-menu .navigation > li > ul , .main-menu .navigation > li > ul > li > ul {
+		min-width: 250px;
+		position: absolute;
+		padding: 8px 0;
+		top: 100%;
+		left: 0px;
+		border-radius: 10px;
+		z-index: 100;
+		visibility: hidden;
+		border-top: 3px solid var(--rise-global-color);
+		background-color: #ffffff;
+		opacity: 0;
+		-webkit-box-shadow: 0 0 60px 0 rgb(53 57 69 / 15%);
+		-moz-box-shadow: 0 0 60px 0 rgba(53, 57, 69, 0.15);
+		-ms-box-shadow: 0 0 60px 0 rgba(53, 57, 69, 0.15);
+		-o-box-shadow: 0 0 60px 0 rgba(53, 57, 69, 0.15);
+		box-shadow: 0 0 60px 0 rgb(53 57 69 / 15%);
+		-webkit-transition: all 300ms linear 0ms;
+		-khtml-transition: all 300ms linear 0ms;
+		-moz-transition: all 300ms linear 0ms;
+		-ms-transition: all 300ms linear 0ms;
+		-o-transition: all 300ms linear 0ms;
+		transition: all 300ms linear 0ms;
+  	}
+	.main-menu .navigation > li > ul li{
+		font-weight: 400;
+    	padding: 10px 25px;
+	}
+	.main-menu .navigation > li > ul li:hover > a{
+		padding-left: 18px;
+		color: var(--rise-global-color);
+	}
+	.main-menu .navigation > li > ul li:hover > a:before{
+		width: 12px;
+	}
+	.main-menu .navigation > li > ul a:before{
+		position: absolute;
+		content: "";
+		left: 0;
+		right: auto;
+		top: 50%;
+		bottom: auto;
+		-webkit-transform: translateY(-50%);
+		-moz-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		-o-transform: translateY(-50%);
+		transform: translateY(-50%);
+		width: 0;
+		height: 1px;
+		background-color: var(--rise-global-color);
+		-webkit-transition: all 0.3s ease-out 0s;
+		-moz-transition: all 0.3s ease-out 0s;
+		-ms-transition: all 0.3s ease-out 0s;
+		-o-transition: all 0.3s ease-out 0s;
+		transition: all 0.3s ease-out 0s;
+	}
+   	.main-menu .navigation > li > ul > li > ul{
+		left: 100%;
+		top: 0;
+		margin-top: -8px;
+   	}
+   	.main-menu ul > li.dropdown > ul > li.dropdown::after {
+		position: absolute;
+		right: 25px;
+		font-family: "pbminfotech-base-icons";
+		font-size: 16px;
+		content: "\e814";
+		font-weight: 600;
+		margin-left: 8px;
+		top: 5px;
+		color: var(--rise-blackish-color);
+   	}
+    .main-menu ul > li.dropdown > ul > li.dropdown.active::after,
+	.main-menu ul > li.dropdown > ul > li:hover::after{
+		color: var(--rise-global-color);
+    }
+	.main-menu ul > li.dropdown > a:after{
+		content: "";
+		position: absolute;
+		right: -19px;
+		top: 50%;
+		-khtml-transform: translateX(0%) translateY(-50%);
+		-moz-transform: translateX(0%) translateY(-50%);
+		-ms-transform: translateX(0%) translateY(-50%);
+		-o-transform: translateX(0%) translateY(-50%);
+		transform: translateX(0%) translateY(-50%);
+		width: 6px;
+		height: 6px;
+		background-color: var(--rise-global-color);
+		border-radius: 50%;
+	}
+	.header-style-1{
+		padding: 30px 40px 0 40px;
+	}
+	.header-style-1 .rise-main-header-area{
+		border-radius: 30px;
+	}
+	.header-style-1 .rise-main-header-area .container-fluid{
+		padding: 0 15px;
+	}
+	.header-style-1 .site-branding{
+		padding-right: 30px;
+	}
+	.header-style-1 .rise-header-button a .rise-header-button-text-2 {
+        color: var(--rise-global-color);
+    }
+	.site-header .sticky-header .site-branding .site-title{
+		height: 90px;
+		line-height: 90px;
+	}
+	.site-header .sticky-header .site-navigation ul.navigation > li > a{
+		height: 90px;
+		line-height: 90px;
+	}
+	.header-style-2{
+		padding: 30px 40px 0 40px;
+	}
+	.header-style-2 .site-header-menu-wrapper .container-fluid{
+		max-width: none;
+        width: auto;
+        padding: 0 30px;
+	}
+	.header-style-2 .rise-logo-btnarea,
+	.header-style-2 .rise-right-box{
+		flex: 1;
+	}
+	.header-style-2 .site-branding{
+		padding-right: 80px;
+	}
+	.header-style-2 .rise-menuarea{
+		border-radius: 0 0 30px 30px;
+        position: relative;
+        top: -15px;
+        padding: 0 10px;
+		background-color: var(--rise-white-color);
+	}
+	.header-style-2 .rise-menuarea:before,
+	.header-style-2 .rise-menuarea:after{
+		content: "";
+        position: absolute;
+        background-color: transparent;
+        top: 0;
+        height: 40px;
+        width: 20px;
+		box-shadow: 0 -20px 0 0 var(--rise-white-color);
+	}
+	.header-style-2 .rise-menuarea:before{
+		right: 100%;
+        border-top-right-radius: 20px;
+	}
+	.header-style-2 .rise-menuarea:after{
+		left: 100%;
+        border-top-left-radius: 20px;
+	}
+	.header-style-2 .rise-right-box{
+		justify-content: flex-end;
+	}
+	.header-style-3{
+		padding: 0 40px;
+	}
+	.header-style-3 .rise-pre-header-content{
+		border-bottom: 1px solid rgba(var(--rise-blackish-color-rgb),.15);
+	}
+	.header-style-3 .site-branding{
+		padding-right: 30px;
+	}
+	/*=== Banner Slider ===*/
+	.rise-slider-two{
+		max-width: 100%;
+		overflow: hidden;
+		border-radius: 30px;
+	}
+	.rise-slider-three{
+		max-width: 100%;
+        overflow: hidden;
+        border-radius: 20px;
+	}
+	/*=== Title Bar ===*/
+	.rise-title-bar-wrapper{
+		border-radius: 30px;
+        overflow: hidden;
+		margin: 25px 40px 0 40px;
+	}
+	/*=== About Us ===*/ 
+	.our-history-bg .rise-timeline{
+		position: relative;
+	}
+	.our-history-bg .rise-timeline::before,
+	.our-history-bg .rise-timeline::after{
+		position: absolute;
+        content: '';
+        height: 1px;
+        width: 100%;
+        background: rgba(var(--rise-white-color-rgb), 0.4);
+        top: 119px;
+	}
+	.our-history-bg .rise-timeline::before{
+		left: inherit;
+        right: 100%;
+	}
+	.our-history-bg .rise-timeline::after{
+		left: 100%;
+		right: auto;
+	}
+	/*=== Sidebar ===*/
+	.blog-left-col,
+	.service-left-col{
+		flex: 0 0 74%;
+        max-width: 74%;
+	}
+	.blog-left-col{
+		padding-right: 46px;
+	}
+	.service-left-col{
+		padding-left: 46px;
+	}
+	.blog-right-col,
+	.service-right-col{
+		flex: 0 0 26%;
+        max-width: 26%;
+	}
+}
+
+@media(min-width:1025px) {
+	/*=== Image Animation ===*/
+	.rise-animation-style1{
+		clip-path: polygon(0% 0%,0% 0%,0% 100%,0% 100%);
+	}
+	.rise-animation-style2{
+		clip-path: polygon(100% 0%,100% 0%,100% 100%,100% 100%);
+	}
+	.rise-animation-style1.active,
+	.rise-animation-style2.active{
+		clip-path: polygon(0% 0%,100% 0%,100% 100%,0% 100%);
+	}
+	.rise-animation-style1 img{
+		transform: scale(1.5) translate(-100px,0px);
+	}
+	.rise-animation-style2 img{
+		transform: scale(1.5) translate(100px,0px);
+	}
+	.rise-animation-style1.active img,
+	.rise-animation-style2.active img{
+		transform: scale(1) translate(0px,0px);
+	}
+	/*=== Team Single ===*/
+	.rise-team-single .rise-entry-content{
+		padding-left: 36px;
+	}
+}
+
+@media(min-width: 768px) {
+	/*=== Homepage-01 ===*/
+	.about-us-one-col-1{
+		width: 38%;
+	}
+	.about-us-one-col-2{
+		width: 23%;
+	}
+	.about-us-one-col-3{
+		width: 39%;
+	}
+}
+
+
+@media (min-width: 1350px) and (max-width: 1600px) {
+	.rise-fid-space .pbminfotech-ele-fid-style-2 .rise-fid-inner {
+		font-size: 70px;
+		line-height: 70px;
+	}
+	.rise-fid-space .rise-fid-space .pbminfotech-ele-fid-style-2 .rise-fid-inner {
+		margin-bottom: 40px;
+	}
+}
+
+
+
+@media (min-width: 1024px) and (max-width: 1350px) {
+	.rise-fid-space .pbminfotech-ele-fid-style-2 .rise-fid-inner {
+		font-size: 55px;
+		line-height: 55px;
+	}
+	.rise-fid-space .pbminfotech-ele-fid-style-2 .rise-fid-inner {
+		margin-bottom: 20px;
+	}
+	.rise-fid-space .pbminfotech-ele-fid-style-2 .rise-fid-inner .rise-fid span {
+		margin-left: -5px;
+	}
+}
+
+@media (min-width: 1024px) and (max-width: 1300px) {
+	.pbminfotech-ele-fid-style-2 .rise-fid-inner {
+		font-size: 80px;
+		line-height: 80px;
+	}
+	.rise-ihbox-style-8 .rise-ihbox-headingicon {
+		display: block;
+	}
+	.rise-ihbox-style-8 .rise-ihbox-svg,
+	.rise-ihbox-style-8 .rise-ihbox-icon {
+		margin: 0 0 20px 0;
+	}
+
+}
+
+
+
+@media(min-width:575px) and (max-width:767px){
+	.rise-testimonial-style-2 .rise-featured-wrapper img {
+		width: 50px;
+		height: 50px;
+	}
+}
+
+
+
+
